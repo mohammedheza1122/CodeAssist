@@ -16,7 +16,7 @@
 
   <h2>A javac APIs-based code editor that supports building Android apps.</h2>
 
-</div>
+</div> 
 
 <img style="width: 45%; height: 100%; padding-right: 10px" src="https://raw.githubusercontent.com/KrishnaVyshak/CodeAssist/main/.github/resources/screenshot/screenshots_title_light.png#gh-light-mode-only">
 <img style="width: 45%; height: 100%; padding-right: 10px" src="https://raw.githubusercontent.com/KrishnaVyshak/CodeAssist/main/.github/resources/screenshot/screenshots_title_dark.png#gh-dark-mode-only">
